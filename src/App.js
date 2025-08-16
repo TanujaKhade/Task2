@@ -1,9 +1,9 @@
 import React from "react";
-import Home from "./Home";
-import Navbar from "./Navbar";
-import About from "./About";
-import Contact from "./contact";
-import Service from "./service"
+import Home from "./components/Home";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Service from "./components/service"
 
 class App extends React.Component{
   constructor(){

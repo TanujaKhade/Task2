@@ -1,6 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 
-class Contact extends Component {
+
+class Contact extends React.Component {
   // State with phone and address
 state = {
     phone: "123-456-7890",
